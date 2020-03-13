@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] /mnt/c/Users/Natalia/Desktop/FacultateNatalia/anul2/sem1/labPOO/Proiect/src/hero/Hero.java:279:5: Class 'Hero' looks like designed for extension (can be subclassed), but the method 'accept' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'Hero' final or making the method 'accept' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
+[ERROR] /mnt/c/Users/Natalia/Desktop/FacultateNatalia/anul2/sem1/labPOO/Proiect/src/hero/Hero.java:312:5: Class 'Hero' looks like designed for extension (can be subclassed), but the method 'accept' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'Hero' final or making the method 'accept' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
+Audit done.
+Checkstyle ends with 2 errors.
